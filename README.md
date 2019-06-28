@@ -19,5 +19,5 @@ http://scripts.sil.org/OFL
 Copyright (c) 2019, Eli Block (eliblock@google.com),
 with Reserved Font Name "Lacquer".
 
-![Lacquer](/documentation/Comfortaa%20Light.png)
+![Lacquer](/DOCUMENTATION/Lacquer.png)
 
