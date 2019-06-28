@@ -186,6 +186,12 @@ AA,
 "L/trademark"
 );
 copyright = "2019";
+customParameters = (
+{
+name = "Disable Subroutines";
+value = 1;
+}
+);
 date = "2019-05-01 15:52:34 +0000";
 designer = "Eli Block, Niki Polyocan";
 designerURL = "eli-block.com";
