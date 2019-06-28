@@ -8,6 +8,10 @@ Lacquer is an expressive display font featuring heavy drips and dozens of altern
 * Complete GF Latin glyph set
 * Optimized kerning, alternates, and bonus glyphs
 
+### Questions
+
+Contact Eli Block (eliblock@google.com) with questions.
+
 ### License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
