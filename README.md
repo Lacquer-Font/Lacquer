@@ -38,8 +38,7 @@ http://scripts.sil.org/OFL
 
 ### Copyright
 
-Copyright (c) 2019, Eli Block (eliblock@google.com),
-with Reserved Font Name "Lacquer".
+Copyright (c) 2019, Eli Block (eliblock@google.com)
 
 ![Lacquer](/DOCUMENTATION/Lacquer.png)
 
